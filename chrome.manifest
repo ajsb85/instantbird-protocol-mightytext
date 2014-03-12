@@ -1,4 +1,4 @@
-component {9af4bb00-a94e-11e3-a5e2-0800200c9a66} components/mtOverrideProtocols.js
+component {9af4bb00-a94e-11e3-a5e2-0800200c9a66} components/mightytext.js
 contract @mozilla.org/chat/mightytext;1 {9af4bb00-a94e-11e3-a5e2-0800200c9a66}
 category im-protocol-plugin prpl-mightytext @mozilla.org/chat/mightytext;1
 
